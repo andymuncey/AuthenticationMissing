@@ -1,0 +1,22 @@
+﻿*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.notice {
+    background-color:aquamarine;
+    padding:10px;
+    border-color:green;
+    border-radius: 5px;
+}
+
+ul.notice  {list-style-position:inside;}
+label{
+    display:block;
+}
+
+
+
+select {
+    display:block;
+
+}
